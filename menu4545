@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>メニュー</title>
+</head>
+
+<body>
+
+<h1>🍜 麺屋 未来 メニュー</h1>
+
+<a href="index.html">ホーム</a>
+
+<h2>商品一覧</h2>
+
+<p>醤油ラーメン 800円</p>
+<p>味噌ラーメン 850円</p>
+<p>チャーシューメン 1000円</p>
+
+</body>
+</html>
